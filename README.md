@@ -52,10 +52,9 @@ The project utilizes the **Social Media Sentiment Dataset** (`Sentiment_dataset.
 
 ---
 
-## 📂 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Codveda-Data-Science-Internship.git
+
+
+
 
 | 📂 Folder / File | 📝 Description |
 | :--- | :--- |
