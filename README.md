@@ -1,9 +1,19 @@
-   ### 📂 Project Files
-   | Level | Task | Notebook |
-   |-------|------|----------|
-   | 🟢 Basic | Data Cleaning | [Open 📓](Level_1_Basic/1_Data_Cleaning_Preprocessing.ipynb) |
-   | 🟢 Basic | EDA | [Open 📓](Level_1_Basic/2_Exploratory_Data_Analysis.ipynb) |
-   |  Intermediate | Regression | [Open 📓](Level_2_Intermediate/1_Predictive_Modeling_Regression.ipynb) |
-   |  Intermediate | Classification | [Open 📓](Level_2_Intermediate/2_Classification_Logistic_Regression.ipynb) |
-   | 🔴 Advanced | NLP | [Open 📓](Level_3_Advanced/1_NLP_Text_Classification.ipynb) |
-   | 🔴 Advanced | Neural Networks | [Open 📓](Level_3_Advanced/2_Neural_Networks_Keras.ipynb) |
+   🏗️  Codveda-Data-Science-Internship/
+│
+├── 📄 README.md                          [✅ Complete]
+│
+├──  Level_1_Basic/                     [✅ Complete]
+│   ├── 🧹 1_Data_Cleaning_Preprocessing.ipynb   (IQR, Imputation, Scaling)
+│   └──  2_Exploratory_Data_Analysis.ipynb     (Histograms, Heatmaps)
+│
+├── 🟡 Level_2_Intermediate/              [✅ Complete]
+│   ├── 📈 1_Predictive_Modeling_Regression.ipynb (Linear vs Random Forest)
+│   └── 🎯 2_Classification_Logistic_Regression.ipynb (92.5% Accuracy)
+│
+├── 🔴 Level_3_Advanced/                  [✅ Complete]
+│   ├── 🗣️ 1_NLP_Text_Classification.ipynb       (TF-IDF + Naive Bayes)
+│   └── 🧠 2_Neural_Networks_Keras.ipynb         (Sequential NN with Dropout)
+│
+├── 📊 Sentiment_dataset[1].csv           (733 rows × 14 columns)
+│
+└── 🐍 requirements.txt                   (pandas, sklearn, tensorflow, nltk)
