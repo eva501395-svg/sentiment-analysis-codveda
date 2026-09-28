@@ -74,11 +74,11 @@ The project utilizes the **Social Media Sentiment Dataset** (`Sentiment_dataset.
 | ** Level 3: Advanced** | |
 | `1_NLP_Text_Classification.ipynb` | Text preprocessing, TF-IDF, and Naive Bayes |
 | `2_Neural_Networks_Keras.ipynb` | Feed-forward Neural Network with TensorFlow |
-## 🙏 Acknowledgments & Thank You
+##  Acknowledgments & Thank You
 I would like to express my sincere gratitude to **Codveda Technology** for providing me with this incredible Data Science internship opportunity. This project has been a transformative learning experience, allowing me to bridge the gap between theoretical knowledge and real-world application. 
 
 Thank you to the entire Codveda team and my mentors for your continuous guidance, support, and for fostering an environment that encourages innovation and skill development. I am excited to apply these newly acquired skills in Python, Machine Learning, and Deep Learning to future projects!
 
 - **Website:** [www.codveda.com](https://www.codveda.com)
-- # codveda
+- **Email:** support@codveda.com
 
